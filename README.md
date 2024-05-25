@@ -14,3 +14,7 @@ Nesse projeto criei um jogo de **PINGPONG** usando  _HTML_ e _JAVASCRIPT_.
 
 - HTML
 - JAVASCRIPT
+
+## 🚀 Créditos Tuturial
+
+- https://st.devsamurai.com.br/0cqlvn/index.html
